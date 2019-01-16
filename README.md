@@ -9,4 +9,4 @@ Datasets:
 - Dataset for car models available in the market together with relevant characteristics.
 - U.S. census for the number of households in each year.
 - Gas price used to calculate cost (in dollars) per mile for each car model.
-- U.S. CPI used to adjust car prices to a common level.
+- U.S. CPI used to adjust car prices to the same level.
